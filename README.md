@@ -2,7 +2,7 @@
 
 ## PROBLEM STAEMENT
 
-In this project we will be performing one of the most famous task in the field of nautal language processing i,e Parts of Speech Tagging using BERT.
+In this project we will be performing one of the most famous task in the field of natural language processing i,e Parts of Speech Tagging using BERT.
 
 ## DESCRIPTION OVERVIEW
 
